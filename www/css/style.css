@@ -188,6 +188,29 @@ input[type=text].field:focus {
     background-color: #7feb6d;
 }
 
+/* Styles for about us */
+
+#about_us {
+    width: 60%;
+    float: left;
+    background-color: #fafafa;
+    border-radius: 5px;
+    border: 1px solid silver;
+    box-sizing: border-box;
+    padding: 1%;
+}
+
+#columnRight {
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    background-color: #fafafa;
+    border-radius: 5px;
+    border: 1px solid silver;
+    box-sizing: border-box;
+    padding: 1%;
+}
+
 /* Central block of our site */
 
 #main_soc_block {
